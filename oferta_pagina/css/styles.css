@@ -1,0 +1,34 @@
+.img{
+    border-radius: 10px;
+    float: left;
+    height: 180px;
+    width: 233px;
+       
+}
+
+.bebe{
+    color: black;
+    
+}
+
+.tamaño {
+    height: 180px;
+    width: 233px;
+    border-radius: 10px;
+    float: left;
+}
+
+.img2{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.body {
+    background-color:#91e842;
+}
+
+.ico {
+    width:20px; 
+    height:20px;
+}
